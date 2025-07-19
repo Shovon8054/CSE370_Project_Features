@@ -1,6 +1,7 @@
 # CSE370_Project_Features
 
 **Project: Banking System**
+
 Key Features:
 
 1. Create a new account
