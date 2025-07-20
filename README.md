@@ -14,6 +14,7 @@ Key Features:
 8. Dashboard with balance and transactions
 
 **Project: BRAC MealHub**
+
 Key features:
 1. View daily lunch menu
 2. Place an order with name and student ID
