@@ -30,5 +30,16 @@ Key features:
 6. Show most popular dishes this week
    
 7. Suggest new food items
-    
-8. Daily cafeteria announcements
+8. 
+9. Daily cafeteria announcements
+
+**University Transport**
+
+1. View All Bus Schedules
+2. Search Bus by Stop Name or Destination
+3. Next Departure Time
+4. Route Overview Page
+5. Manual Status Indicator
+6. Transport Notices/Updates Panel
+7. Student Suggestions Box
+8. Bus Usage Counter
