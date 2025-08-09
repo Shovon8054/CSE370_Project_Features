@@ -24,7 +24,7 @@ Key Features:
 7. Suggest new food items
 8. Daily cafeteria announcements
 
-**University Transport**
+**BRACU Transport System**
 
 1. View All Bus Schedules
 2. Search Bus by Stop Name or Destination
