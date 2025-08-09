@@ -12,6 +12,8 @@ Key Features:
 6. View transaction history
 7. Delete account
 8. Dashboard with balance and transactions
+<img width="822" height="919" alt="Banking System drawio" src="https://github.com/user-attachments/assets/2252690d-8313-4e7a-854f-fdfefe190823" />
+
 
 **Project: BRAC MealHub**
 
