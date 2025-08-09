@@ -23,6 +23,8 @@ Key Features:
 6. Show most popular dishes this week   
 7. Suggest new food items
 8. Daily cafeteria announcements
+<img width="822" height="971" alt="Brac MealHub drawio (1)" src="https://github.com/user-attachments/assets/7ab8bd2f-52a2-47e4-be26-64d1b05a00d4" />
+
 
 **BRACU Transport System**
 
