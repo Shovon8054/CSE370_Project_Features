@@ -41,3 +41,17 @@ Key Features:
 7. Student Suggestions Box
 8. Bus Usage Counter
 <img width="811" height="971" alt="BracU Transport System drawio (1)" src="https://github.com/user-attachments/assets/ca7f566d-71fd-4c74-a07c-1967113cd02d" />
+
+
+
+**BRACU Library Seat Reservation System**
+
+1.View Seat Availability
+2.Book a Seat
+3. Cancel Reservation
+4. Time Limit per Reservation
+5. Auto-Cancellation for No-Show
+6. Extend Reservation Time
+7. Reservation History
+8. Daily/Weekly Seat Usage Summary
+
