@@ -47,11 +47,18 @@ Key Features:
 **BRACU Library Seat Reservation System**
 
 1.View Seat Availability
+
 2.Book a Seat
+
 3. Cancel Reservation
+   
 4. Time Limit per Reservation
+   
 5. Auto-Cancellation for No-Show
+
 6. Extend Reservation Time
+
 7. Reservation History
+
 8. Daily/Weekly Seat Usage Summary
 
